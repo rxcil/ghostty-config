@@ -6,6 +6,11 @@ theme = tokyonight
 # --- Font ---
 font-family = "JetBrainsMono Nerd Font"
 font-size = 11
+
+# --- Cursor ---
+cursor-color = FA8603
+cursor-text = FFFFFF
+
 unfocused-split-opacity = 0.85
 unfocused-split-fill = 050505
 background = 222436
