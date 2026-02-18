@@ -14,6 +14,7 @@ cursor-text = FFFFFF
 unfocused-split-opacity = 0.85
 unfocused-split-fill = 050505
 background = 222436
+foreground = e0e5fa
 
 # --- Shell / program + env ---
 # WezTerm default_prog equivalent:
